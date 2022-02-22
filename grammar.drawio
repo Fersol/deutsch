@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T11:01:16.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.3.848 Yowser/2.5 Safari/537.36" etag="_7g5fyyAc9Detpk_TtXx" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T15:44:15.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.3.848 Yowser/2.5 Safari/537.36" etag="OVn2gxnqDlaMHTw2f3vp" version="16.6.2" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
-    <mxGraphModel dx="1451" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1607" dy="3473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -816,6 +816,237 @@
         </mxCell>
         <mxCell id="yXKRBjNolG8SrxZdcUx5-85" value="&lt;font color=&quot;#000000&quot;&gt;Wasch dich, kämmdich und zieh das beste Kleid an!&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry y="2278" width="300" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-86" value="Склонение прилагательных" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-87" value="нулевой артикль&amp;nbsp;&lt;br&gt;(сильное склонение)" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-88" value="das Maskulinum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-89" value="das Femininum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-90" value="das Neutrum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-91" value="der Plural" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-92" value="Nominativ&lt;br&gt;(Wer, Was?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-93" value="grosser Hat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-94" value="warmes Bier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-95" value="rote Krawatte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-96" value="die / -" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-97" value="Genetiv&lt;br&gt;(Wessen?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-98" value="grosses Hats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-99" value="warmes Biers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-100" value="roter Krawatte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-101" value="der / -" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-102" value="Dativ&lt;br&gt;(Wem, Wo?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-103" value="dem / einem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-104" value="warmem Bier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-105" value="roter Krawatte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-106" value="den / -" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-107" value="Akkusativ&lt;br&gt;(Wen, Was, Wohin?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-108" value="grossen Hat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-109" value="grosses Obst" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-110" value="rote Krawatte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-111" value="die / -" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-112" value="etwas, mehr" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-113" value="ein, zwei,drei" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-114" value="Слабое склонение" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-115" value="dieser, jeder, jener, mancher,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-116" value="alle, diese, jene, manche, solche, welche, keine+ Possessiv (meine, deine - множественное обязательно)" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="-1100" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-117" value="das Maskulinum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-118" value="das Femininum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-119" value="das Neutrum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-120" value="der Plural" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-121" value="Nominativ&lt;br&gt;(Wer, Was?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-122" value="der / ein grosse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-123" value="das / ein grosse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-124" value="die / eine grosse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-125" value="die / - grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-126" value="Genetiv&lt;br&gt;(Wessen?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-127" value="des / eines grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-128" value="des / eines grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-129" value="der / einer grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-130" value="der / - grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-131" value="Dativ&lt;br&gt;(Wem, Wo?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-132" value="dem / einem grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-133" value="dem / einem grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-134" value="der / einer grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-135" value="den / - grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-136" value="Akkusativ&lt;br&gt;(Wen, Was, Wohin?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-137" value="den / einen grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-138" value="das / ein grosse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-139" value="die / eine grosse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-140" value="die / - grosse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="-810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-141" value="hoch -&amp;gt; hohe&lt;br&gt;dunkel -&amp;gt; dunkle&lt;br&gt;teuer -&amp;gt; teure&lt;br&gt;sauer -&amp;gt; seure&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-1240" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-142" value="das Maskulinum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-143" value="das Femininum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-144" value="das Neutrum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-146" value="Nominativ&lt;br&gt;(Wer, Was?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-147" value="der / ein grosser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-148" value="das / ein grosses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-149" value="die / eine grosse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-151" value="Genetiv&lt;br&gt;(Wessen?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-152" value="des / eines grossen Hats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-153" value="des / eines grossen&lt;br&gt;Hauses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-154" value="der / einer grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-156" value="Dativ&lt;br&gt;(Wem, Wo?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-157" value="dem / einem grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-158" value="dem / einem grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-159" value="der / einer grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-161" value="Akkusativ&lt;br&gt;(Wen, Was, Wohin?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-162" value="den / einen grossen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-510" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-163" value="das / ein grosses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-480" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-164" value="die / eine grosse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-166" value="Смешанное склонение" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-167" value="Притяжательное единственное - mein, dein + kein" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
