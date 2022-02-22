@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T15:44:15.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.3.848 Yowser/2.5 Safari/537.36" etag="OVn2gxnqDlaMHTw2f3vp" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T16:00:13.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.3.848 Yowser/2.5 Safari/537.36" etag="bqOE79tWh9b9IOKQNnvr" version="16.6.2" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
-    <mxGraphModel dx="1607" dy="3473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2127" dy="4230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,25 +838,25 @@
         <mxCell id="yXKRBjNolG8SrxZdcUx5-92" value="Nominativ&lt;br&gt;(Wer, Was?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-940" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yXKRBjNolG8SrxZdcUx5-93" value="grosser Hat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-93" value="gross&lt;font color=&quot;#ff0000&quot;&gt;er&lt;/font&gt; Hat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-900" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yXKRBjNolG8SrxZdcUx5-94" value="warmes Bier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-94" value="warm&lt;font color=&quot;#ff0000&quot;&gt;es&lt;/font&gt; Bier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-870" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yXKRBjNolG8SrxZdcUx5-95" value="rote Krawatte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-95" value="rot&lt;font color=&quot;#ff0000&quot;&gt;e&lt;/font&gt; Krawatte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-840" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yXKRBjNolG8SrxZdcUx5-96" value="die / -" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-96" value="die / - rot&lt;font color=&quot;#ff0000&quot;&gt;e&lt;/font&gt;&amp;nbsp;Baumen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-810" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yXKRBjNolG8SrxZdcUx5-97" value="Genetiv&lt;br&gt;(Wessen?)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-940" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yXKRBjNolG8SrxZdcUx5-98" value="grosses Hats" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-98" value="grosses Hat&lt;font color=&quot;#ff8000&quot;&gt;s&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-900" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yXKRBjNolG8SrxZdcUx5-99" value="warmes Biers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-99" value="warmes Bier&lt;font color=&quot;#ff8000&quot;&gt;s&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-870" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yXKRBjNolG8SrxZdcUx5-100" value="roter Krawatte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -904,10 +904,10 @@
         <mxCell id="yXKRBjNolG8SrxZdcUx5-114" value="Слабое склонение" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="900" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yXKRBjNolG8SrxZdcUx5-115" value="dieser, jeder, jener, mancher,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-115" value="dieser, jeder, jener, mancher, welcher - единственное" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1050" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yXKRBjNolG8SrxZdcUx5-116" value="alle, diese, jene, manche, solche, welche, keine+ Possessiv (meine, deine - множественное обязательно)" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-116" value="alle, diese, jene, manche, solche, welche, keine+ Possessiv (meine, deine - множественное это все обязательно)" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1191" y="-1100" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yXKRBjNolG8SrxZdcUx5-117" value="das Maskulinum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -983,7 +983,7 @@
           <mxGeometry x="1330" y="-810" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yXKRBjNolG8SrxZdcUx5-141" value="hoch -&amp;gt; hohe&lt;br&gt;dunkel -&amp;gt; dunkle&lt;br&gt;teuer -&amp;gt; teure&lt;br&gt;sauer -&amp;gt; seure&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="910" y="-1240" width="120" height="90" as="geometry" />
+          <mxGeometry x="900" y="-1190" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yXKRBjNolG8SrxZdcUx5-142" value="das Maskulinum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="-510" width="120" height="30" as="geometry" />
@@ -1045,8 +1045,11 @@
         <mxCell id="yXKRBjNolG8SrxZdcUx5-166" value="Смешанное склонение" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="720" y="-660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yXKRBjNolG8SrxZdcUx5-167" value="Притяжательное единственное - mein, dein + kein" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-167" value="Притяжательное единственное - mein, dein + kein, irgendein (какой-то)" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="870" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yXKRBjNolG8SrxZdcUx5-168" value="&lt;font color=&quot;#000000&quot;&gt;einige, mehrer, viele, wenige, Zahlen&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
