@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T13:18:50.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="Y1l1Xd16j2W3KP1afuov" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T13:35:56.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="J_ug8rX2gE5bOINiQCwl" version="16.6.4" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
-    <mxGraphModel dx="3447" dy="3337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3127" dy="3159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1115,31 +1115,94 @@
           <mxGeometry x="-730" y="-1025" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-2" value="Сильное склонение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="-840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-960" y="-570" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-3" value="Слабое склонение&lt;br&gt;Maskulinum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="-840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-810" y="-840" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-4" value="Femininum - Nein" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="-940" width="120" height="60" as="geometry" />
+          <mxGeometry x="-490" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-5" value="Plural" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="-940" width="120" height="60" as="geometry" />
+          <mxGeometry x="-370" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-6" value="Maskulinum + Neutrum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-860" y="-940" width="120" height="60" as="geometry" />
+          <mxGeometry x="-960" y="-630" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-7" value="1. -&lt;font color=&quot;#ff0000&quot;&gt;e&lt;/font&gt; - одушевленные&lt;br&gt;2. -&lt;font color=&quot;#ff0000&quot;&gt;e&lt;/font&gt;&amp;nbsp;- национальности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-805" y="-760" width="150" height="60" as="geometry" />
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-7" value="1. -&lt;font color=&quot;#ff0000&quot;&gt;e&lt;/font&gt; - одушевленные&lt;br&gt;2. -&lt;font color=&quot;#ff0000&quot;&gt;e&lt;/font&gt;&amp;nbsp;- национальности&lt;br&gt;3. люди+животные (&lt;br&gt;der Mensch,&lt;br&gt;&amp;nbsp;der Bär,&lt;br&gt;&amp;nbsp;der Herr ,&lt;br&gt;der Graf, &lt;br&gt;der Prinz ,&lt;br&gt;&amp;nbsp;der Held&amp;nbsp;&lt;br&gt;)&lt;br&gt;4. Суффиксы -and-, -ant-, -ent-, -et-, -oge- -at-, -ist-,&lt;br&gt;&amp;nbsp;-nom-, -soph-, -graf-,&lt;br&gt;&amp;nbsp;-loge-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-760" width="140" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-8" value="Heartz (N)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-8" value="das Herz (N)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-710" y="-900" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-9" value="&lt;font color=&quot;#000000&quot;&gt;Исключения&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="-840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-650" y="-760" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-10" value="der Name&lt;br&gt;der Gedanke&lt;br&gt;der Buchstabe" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="-770" width="120" height="60" as="geometry" />
+          <mxGeometry x="-630" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-11" value="Nominativ" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-12" value="Genitiv" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-13" value="Dativ" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-14" value="Akkuzativ" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-15" value="das Haus, das Fenster" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-510" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-16" value="des Haus&lt;font color=&quot;#ff0000&quot;&gt;es&lt;/font&gt;, des Fenster&lt;font color=&quot;#ff0000&quot;&gt;s&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-17" value="dem Haus, dem Fenster" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-18" value="das Haus, das Fenster" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-330" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-19" value="der Held, der Knabe&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-20" value="des Held&lt;font color=&quot;#ff0000&quot;&gt;en&lt;/font&gt;, des Knabe&lt;font color=&quot;#ff0000&quot;&gt;n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-21" value="dem Held&lt;font color=&quot;#ff0000&quot;&gt;en&lt;/font&gt;, dem Knabe&lt;font color=&quot;#ff0000&quot;&gt;n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-22" value="den Held&lt;font color=&quot;#ff0000&quot;&gt;en&lt;/font&gt;, den Knabe&lt;font color=&quot;#ff0000&quot;&gt;n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-29" value="der Held, der Knabe&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-30" value="&lt;font color=&quot;#000000&quot;&gt;die Brüder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-31" value="&lt;font color=&quot;#000000&quot;&gt;der Brüder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-32" value="&lt;font color=&quot;#000000&quot;&gt;die Brüder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-33" value="&lt;font color=&quot;#000000&quot;&gt;den Brüder&lt;/font&gt;n" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
