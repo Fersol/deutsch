@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T13:38:45.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="-ppTSWanLMt1317XgfuZ" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T13:39:05.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="gEubSAWrnYWsD2RXpZuS" version="16.6.4" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
     <mxGraphModel dx="3716" dy="3487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,9 +222,6 @@
         </mxCell>
         <mxCell id="IITHKmQAYOrfM8wcmcxm-65" value="Du wirst sich noch das Bein brechen" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1180" y="435" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="IITHKmQAYOrfM8wcmcxm-66" value="Склонение; https://www.de-online.ru/index/sklonenie_prilagatelnykh_v_nemeckom_jazyke/0-68" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-610" y="75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IITHKmQAYOrfM8wcmcxm-67" value="ich kann mich freuen -&lt;br&gt;&amp;nbsp;согласование" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="850" y="235" width="210" height="80" as="geometry" />
