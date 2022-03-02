@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T13:39:11.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="_pdpcSkRPs7qUJdQvzVW" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T14:13:58.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="xuFj5_WGKTU7TL6yCDdL" version="16.6.4" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
-    <mxGraphModel dx="3716" dy="3487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3372" dy="3296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
         </mxCell>
         <mxCell id="IITHKmQAYOrfM8wcmcxm-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-460" y="745" as="sourcePoint" />
+            <mxPoint x="-880" y="745" as="sourcePoint" />
             <mxPoint x="270.7142857142858" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1209,6 +1209,102 @@
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-37" value="&lt;font color=&quot;#000000&quot;&gt;Склонение существительных&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-873" y="-1010" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-38" value="Plusquamperfect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-880.0000000000001" y="745" as="sourcePoint" />
+            <mxPoint x="-880.0000000000001" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-40" value="ich" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="870" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-41" value="du" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="890" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-42" value="&lt;font color=&quot;#ff8000&quot;&gt;hatte&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;bau&lt;font color=&quot;#ff0000&quot;&gt;t&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="870" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-44" value="wir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="870" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-46" value="ihr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="890" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-48" value="er,sie,es,man" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="910" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-50" value="Sie, sie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="910" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-52" value="haben/sein + Partizip2" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1012.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-53" value="haben/sein (präteritum) + Partizip2" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="802.5" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-54" value="&lt;font color=&quot;#ff8000&quot;&gt;hattest&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;bau&lt;font color=&quot;#ff0000&quot;&gt;t&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="890" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-55" value="&lt;font color=&quot;#ff8000&quot;&gt;hatte&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;bau&lt;font color=&quot;#ff0000&quot;&gt;t&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="910" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-56" value="&lt;font color=&quot;#ff8000&quot;&gt;hatten&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;bau&lt;font color=&quot;#ff0000&quot;&gt;t&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="870" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-57" value="&lt;font color=&quot;#ff8000&quot;&gt;hattet&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;bau&lt;font color=&quot;#ff0000&quot;&gt;t&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="890" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-58" value="&lt;font color=&quot;#ff8000&quot;&gt;hatten&lt;/font&gt; &lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;bau&lt;font color=&quot;#ff0000&quot;&gt;t&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="910" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-59" value="ich" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="945" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-60" value="du" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="965" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-61" value="&lt;font color=&quot;#ff8000&quot;&gt;war&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;gangen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="945" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-62" value="wir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="945" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-63" value="ihr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="965" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-64" value="er,sie,es,man" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="985" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-65" value="Sie, sie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="985" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-66" value="&lt;font color=&quot;#ff8000&quot;&gt;warst&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;gangen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="965" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-67" value="&lt;font color=&quot;#ff8000&quot;&gt;war&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;gangen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="985" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-68" value="&lt;font color=&quot;#ff8000&quot;&gt;waren&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;gangen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="945" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-69" value="&lt;font color=&quot;#ff8000&quot;&gt;wart&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;gangen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="965" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-70" value="&lt;font color=&quot;#ff8000&quot;&gt;waren&lt;/font&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;ge&lt;/font&gt;gangen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="985" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-71" value="&lt;font color=&quot;#000000&quot;&gt;Если есть смысловой и модальный глагол - то оба в неопределенную форму ставятся&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-1015" y="1020" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-72" value="Wir &lt;font color=&quot;#ff0000&quot;&gt;hatten &lt;/font&gt;es nicht &lt;font color=&quot;#ff00ff&quot;&gt;tun wollen&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="1080" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-73" value="Nachdem" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="807.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
