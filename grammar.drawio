@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T13:35:56.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="J_ug8rX2gE5bOINiQCwl" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T13:37:52.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="bcQNtyo0TUoY6KweIXHB" version="16.6.4" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
     <mxGraphModel dx="3127" dy="3159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1133,9 +1133,9 @@
           <mxGeometry x="-800" y="-760" width="140" height="220" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-8" value="das Herz (N)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="-900" width="120" height="80" as="geometry" />
+          <mxGeometry x="-620" y="-710" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-9" value="&lt;font color=&quot;#000000&quot;&gt;Исключения&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-9" value="&lt;font color=&quot;#000000&quot;&gt;Исключения&lt;br&gt;Maskulinum&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-650" y="-760" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-10" value="der Name&lt;br&gt;der Gedanke&lt;br&gt;der Buchstabe" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
@@ -1189,7 +1189,7 @@
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-490" y="-330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-29" value="der Held, der Knabe&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-29" value="der Name, das Herz&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-650" y="-510" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-30" value="&lt;font color=&quot;#000000&quot;&gt;die Brüder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
@@ -1203,6 +1203,15 @@
         </mxCell>
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-33" value="&lt;font color=&quot;#000000&quot;&gt;den Brüder&lt;/font&gt;n" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-370" y="-390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-34" value="des Name&lt;font color=&quot;#ff0000&quot;&gt;ns&lt;/font&gt;, das Herz&lt;font color=&quot;#ff0000&quot;&gt;ens&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-35" value="dem Name&lt;font color=&quot;#ff0000&quot;&gt;n&lt;/font&gt;, dem Herz&lt;font color=&quot;#ff0000&quot;&gt;en&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-X4eF1L_XCZ4BGhdTDRW-36" value="den Name&lt;font color=&quot;#ff0000&quot;&gt;n&lt;/font&gt;, das Herz&lt;font color=&quot;#ff0000&quot;&gt;en&lt;/font&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-330" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
