@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T11:29:09.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="uwqFhMc3h6TD871KqUvj" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T08:43:20.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="Wk4sOow-qoXbw_h7vwwB" version="16.6.5" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
-    <mxGraphModel dx="3218" dy="4626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1966" dy="2792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,7 +662,7 @@
           <mxGeometry x="-732.5" y="3482.5" width="120" height="165" as="geometry" />
         </mxCell>
         <mxCell id="yXKRBjNolG8SrxZdcUx5-38" value="&lt;div&gt;неотделяемые приставки:&lt;/div&gt;&lt;div&gt;be, ge, er, ver, zer, emp, ent, miss&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-525" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="-731" y="3820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yXKRBjNolG8SrxZdcUx5-39" value="Perfect Passiv" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-286" y="2207.5" width="120" height="60" as="geometry" />
@@ -1324,20 +1324,29 @@
         <mxCell id="-X4eF1L_XCZ4BGhdTDRW-92" value="&lt;font color=&quot;#ff8000&quot;&gt;wurdet&amp;nbsp;&lt;/font&gt;verlieb&lt;font color=&quot;#ff0000&quot;&gt;t&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-396" y="2097.5" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CE0_MJgIQareRMKjExkF-2" value="Dativ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CE0_MJgIQareRMKjExkF-2" value="Dativ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-222.5" y="-1813" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CE0_MJgIQareRMKjExkF-3" value="Akkusativ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CE0_MJgIQareRMKjExkF-3" value="Akkusativ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="-1813" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CE0_MJgIQareRMKjExkF-4" value="ab, außer, zu,&lt;br&gt;nach, bei, von,&lt;br&gt;aus, mit, seit,&lt;br&gt;gegenüber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CE0_MJgIQareRMKjExkF-4" value="ab, außer, zu,&lt;br&gt;nach, bei, von,&lt;br&gt;aus, mit, seit,&lt;br&gt;gegenüber" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-222.5" y="-1753" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CE0_MJgIQareRMKjExkF-5" value="in, an&lt;br&gt;auf, negen,&lt;br&gt;hinter,über,&lt;br&gt;unter, vor,&lt;br&gt;zwischen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CE0_MJgIQareRMKjExkF-5" value="in, an&lt;br&gt;auf, negen,&lt;br&gt;hinter,über,&lt;br&gt;unter, vor,&lt;br&gt;zwischen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-102.5" y="-1753" width="102.5" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="CE0_MJgIQareRMKjExkF-6" value="bis,durch,für&lt;br&gt;ohne, gegen,&lt;br&gt;um" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CE0_MJgIQareRMKjExkF-6" value="bis,durch,für&lt;br&gt;ohne, gegen,&lt;br&gt;um" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="-1753" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYYxitYdgJ-NF8NPqAGS-1" value="Глаголы с приставкой (отделяемой)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="3820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYYxitYdgJ-NF8NPqAGS-2" value="Не отделяется:&lt;br&gt;Придаточные предложения + сложное сказуемое" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="3820" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OYYxitYdgJ-NF8NPqAGS-3" value="&lt;br&gt;ab- - отделение&lt;br&gt;an- - ?&lt;br&gt;auf- - ?&lt;br&gt;aus- - из (во вне)&lt;br&gt;bei- - около&lt;br&gt;ein- - ? (к себе)&lt;br&gt;fest- - (укрепить)&lt;br&gt;her- - к говорящему&lt;br&gt;hin- - от говорящего&lt;br&gt;los- - отделение&lt;br&gt;mit- - совместное&lt;br&gt;nach- - ?(следование)&lt;br&gt;vor- ?&lt;br&gt;weg- ?отделение&lt;br&gt;weiter- дальше&lt;br&gt;zu- - присоединение&lt;br&gt;zurück- возвращение&lt;br&gt;zusammen- - вместе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-921" y="3890" width="131" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
