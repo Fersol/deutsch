@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T16:11:15.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.4.837 Yowser/2.5 Safari/537.36" etag="67sXHi_1L5p8fGjpXfwo" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T15:52:22.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.5.810 Yowser/2.5 Safari/537.36" etag="8dwlYLoqzjICdKeokoZ0" version="17.1.4" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
-    <mxGraphModel dx="2304" dy="3284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3716" dy="3487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1471,11 +1471,14 @@
         <mxCell id="CMN5EC9JZARbvj5fr3TK-32" value="Ihnen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-840" y="5000" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MFAB-otgaBxkZD7J2YzQ-1" value="zu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="MFAB-otgaBxkZD7J2YzQ-1" value="zu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1050" y="5070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MFAB-otgaBxkZD7J2YzQ-2" value="Нельзя после&lt;br&gt;1. После модальных глаголов&lt;br&gt;2. После gehen&lt;br&gt;3. Cочетания&lt;br&gt;4. Сложные времена (не настоящее и претритум) (+ вспомогательные глаголы)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MFAB-otgaBxkZD7J2YzQ-2" value="Нельзя после&lt;br&gt;1. После модальных глаголов&lt;br&gt;2. После gehen&lt;br&gt;3. Cочетания&lt;br&gt;4. Сложные времена (не настоящее и претритум) (+ вспомогательные глаголы)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1050" y="5130" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HAdSQkfpPC0O4t5fU6gJ-2" value="Konjuktive 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1041" y="5360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
