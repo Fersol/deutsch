@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T13:43:04.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" etag="NeD7skXS2OecPM9EBVjz" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T13:44:28.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" etag="Q_gZ1IIxr0TzKj4KWNnC" version="17.4.0" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
-    <mxGraphModel dx="7545" dy="5621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2341" dy="2721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1441,7 +1441,7 @@
         <mxCell id="HAdSQkfpPC0O4t5fU6gJ-3" value="Präsens" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-112" y="1970" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HAdSQkfpPC0O4t5fU6gJ-5" value="würden in Präteritum + infinitiv" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HAdSQkfpPC0O4t5fU6gJ-5" value="werden in Konjuktive + infinitiv" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-212" y="2060" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HAdSQkfpPC0O4t5fU6gJ-6" value="Special form" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
