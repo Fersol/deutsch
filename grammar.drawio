@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T13:48:14.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" etag="I4rhBoYn2veoLmq9StcK" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-11T13:49:20.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" etag="ptR8-Y395P9YdZ0UjO9n" version="17.4.0" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
     <mxGraphModel dx="2434" dy="3473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2188,7 +2188,7 @@
         <mxCell id="SqTJwwyuZLEF1CnHy_Fx-3" value="Wir &lt;font color=&quot;#ff8000&quot;&gt;besuchen &lt;/font&gt;unsere Freunde" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-960" y="5160" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SqTJwwyuZLEF1CnHy_Fx-4" value="Wir &lt;font color=&quot;#ff8000&quot;&gt;besuchen &lt;/font&gt;unsere Freunde" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SqTJwwyuZLEF1CnHy_Fx-4" value="Ich &lt;font color=&quot;#ff8000&quot;&gt;kann &lt;/font&gt;dich &lt;font color=&quot;#ff00ff&quot;&gt;nicht&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#ff8000&quot;&gt;besuchen&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-960" y="5200" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SqTJwwyuZLEF1CnHy_Fx-5" value="Прямой" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
