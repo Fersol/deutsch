@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T16:43:27.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" etag="0AOMLRjuArO00cU3pKJu" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T16:45:29.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" etag="36k7ofAoySRvcXllFRxn" version="17.4.3" type="github">
   <diagram id="EZTNfT7H7rQ6OEC-MQ4e" name="Page-1">
-    <mxGraphModel dx="2479" dy="2798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3304" dy="3257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2179,7 +2179,7 @@
         <mxCell id="nEypYBR9yfcNE6j8s4Uh-179" value="Es &lt;font color=&quot;#ff8000&quot;&gt;wäre &lt;/font&gt;besser &lt;font color=&quot;#ff8000&quot;&gt;gewesen&lt;/font&gt;, wir &lt;font color=&quot;#ff8000&quot;&gt;hätten &lt;/font&gt;vorher mit ihm &lt;font color=&quot;#ff8000&quot;&gt;gesprochen&lt;/font&gt;." style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-1025" y="2280" width="345" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SqTJwwyuZLEF1CnHy_Fx-1" value="Порядок слов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SqTJwwyuZLEF1CnHy_Fx-1" value="Порядок слов" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1080" y="5120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SqTJwwyuZLEF1CnHy_Fx-2" value="Прямой" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2223,6 +2223,15 @@
         </mxCell>
         <mxCell id="aQ8JRM1dZP07cAqTGUB3-8" value="&lt;font color=&quot;#ff0000&quot;&gt;Als &lt;/font&gt;er stark &lt;font color=&quot;#ff8000&quot;&gt;erkältet war&lt;/font&gt;, &lt;font color=&quot;#ff8000&quot;&gt;rief &lt;/font&gt;Seine Mutter den Arzt &lt;font color=&quot;#ff8000&quot;&gt;an&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-960" y="5400" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ8JRM1dZP07cAqTGUB3-9" value="Придаточное (обратный)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1041" y="5440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ8JRM1dZP07cAqTGUB3-10" value="Главное (прямой)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1121" y="5440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQ8JRM1dZP07cAqTGUB3-11" value="&lt;span lang=&quot;de&quot;&gt;Die Eltern &lt;font color=&quot;#ff8000&quot;&gt;haben &lt;/font&gt;dir doch &lt;font color=&quot;#ff8000&quot;&gt;gesagt&lt;/font&gt;, dass du spätestens um 23 Uhr zu Hause &lt;font color=&quot;#ff8000&quot;&gt;sein &lt;/font&gt;&lt;/span&gt;&lt;span lang=&quot;en-US&quot;&gt;&lt;font color=&quot;#ff8000&quot;&gt;sollst&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="5440" width="490" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
